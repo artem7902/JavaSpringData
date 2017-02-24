@@ -10,5 +10,5 @@ package com.mycompany.javaspringdata;
  * @author ekzestencial
  */
 public class NewClass {
-	
+	//good code
 }
